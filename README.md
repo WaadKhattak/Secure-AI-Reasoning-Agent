@@ -10,7 +10,7 @@ Sentinel-IQ combines multi-step reasoning architectures with **Microsoft Foundry
 * **Reasoning & Multi-step Thinking:** Implements strict chain-of-thought steps prompting the agent to categorize, verify, and resolve anomalies sequentially.
 * **Reliability & Safety:** Includes an automated input interception guardrail to block exploit payloads and prompt injection attempts from hijacking the agentic workflow.
 
-## 🛠️ How to Run
+##  How to Run
 1. Clone the repository.
 2. Execute the script: `python agent.py`
   
