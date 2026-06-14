@@ -13,4 +13,4 @@ Sentinel-IQ combines multi-step reasoning architectures with **Microsoft Foundry
 ## 🛠️ How to Run
 1. Clone the repository.
 2. Execute the script: `python agent.py`
-3.
+  
